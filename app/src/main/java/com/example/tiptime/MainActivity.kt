@@ -117,7 +117,7 @@ fun TipTimeLayout() {
         )
         Spacer(modifier = Modifier.height(150.dp))
 
-        Text(text = "Laura Daniela Jaimes Cardenas")
+        Text(text = "Laura Daniela Jaimes Cardenas 2040430")
 
         Spacer(modifier = Modifier.padding(10.dp))
     }
